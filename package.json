@@ -42,5 +42,5 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-"homepage": {"https://pari-ranasaria28.github.io/tic-tac-toe"},
+"homepage": "https://pari-ranasaria28.github.io/tic-tac-toe"
 }
